@@ -1,13 +1,22 @@
 body{
     margin: 0px;
+    background-color: rgb(215, 249, 250);
 }
 p{
     background-color: blueviolet;
+    margin: 0px;
+    width: 450px;
+    margin: auto;
+    
 }
 h1{
     text-align: center;
     background-color: lightgreen;
-    padding: 50px;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 0px;
+    margin: auto;
+    width: 500px;
 }
 h1{
     color: blue;
